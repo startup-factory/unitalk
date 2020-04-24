@@ -1,7 +1,5 @@
 # Unitalk Version 1.0
 
-![alt text](https://photos.app.goo.gl/baJCdbUTFz15WoAe6 "Your Priorities screenshot")
-
 ## Key Features
 
 * Citizen participation social network for digital democracy and social innovation
