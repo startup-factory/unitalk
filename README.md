@@ -34,9 +34,9 @@
 ## How to run
 
 ```
-# Git clone with the Active Citizen submodule library
-git clone https://github.com/rbjarnason/your-priorities-app.git
-cd your-priorities-app
+# Git clone with the Startup Factory submodule library
+git clone https://github.com/startup-factory/unitalk.git
+cd unitalk-app
 git submodule init
 git submodule update
 
@@ -236,6 +236,8 @@ SENDGRID_USERNAME
 - Gunnar Grímsson
 - Nathalie Stembert
 - Alexander Máni Gautason
+- Fabien Guiraud
+- Patrick Chassany
 
 ## With help from
 
