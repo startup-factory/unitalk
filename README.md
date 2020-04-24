@@ -31,19 +31,6 @@
 * Open source, non profit and built with passion over 10 years
 * Supported by mass amounts of volunteer work, the EU, city of Reykjavik, World Bank, city of Kopavogur, Scottish Government and the Norwegian Consumer Authority
 
-## Getting Started User Tutorial
-
-https://citizens.is/getting-started/
-
-## Examples of live servers running Your Priorities
-
-* https://yrpri.org/
-* https://betraisland.is/
-* https://betrireykjavik.is/
-* https://mineideer.forbrukerradet.no/
-* https://engage.parliament.scot/
-* https://enjine.smarter.nj.gov/
-
 ## How to run
 
 ```
